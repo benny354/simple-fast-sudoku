@@ -18,7 +18,7 @@
 
 ## 下载与运行
 
-在 [v1.1 发布页面](https://github.com/benny354/simple-fast-sudoku/releases/tag/v1.1) 下载 `一个简单快速的数独.exe`，双击即可开始。运行时只需要这个 EXE。也可以下载便携压缩包，解压后运行。
+在 [v1.1 发布页面](https://github.com/benny354/simple-fast-sudoku/releases/tag/v1.1) 下载 [Windows 64 位单文件 EXE](https://github.com/benny354/simple-fast-sudoku/releases/download/v1.1/simple-fast-sudoku-v1.1-win64.exe)，双击即可开始。也可以下载 [便携压缩包](https://github.com/benny354/simple-fast-sudoku/releases/download/v1.1/simple-fast-sudoku-v1.1-win64.zip)，解压后运行 `一个简单快速的数独.exe`。
 
 下载源码后，也可按下方步骤自行编译。编译完成的 EXE 会生成在项目根目录。
 
